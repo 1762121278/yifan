@@ -1,0 +1,7 @@
+# Project exclude paths
+/dongyimai-common/target/
+/dongyimai-dao/target/
+/dongyimai-manager-web/target/
+/dongyimai-pojo/target/
+/dongyimai-sellergoods-service/target/
+/dongyimai_sellergoods_interface/target/
